@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>Logan Collins</string>
+	<string>Ryan McCuaig</string>
 	<key>Builder Version</key>
-	<string>8536.26.17</string>
+	<string>11601.2.7.2</string>
 	<key>CFBundleDisplayName</key>
-	<string>CloudToButt</string>
+	<string>Big Monkey</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.sunflowersw.cloud-to-butt</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -24,12 +24,14 @@
 		<dict>
 			<key>End</key>
 			<array>
-				<string>cloudtobutt.js</string>
+				<string>bigmonkey.js</string>
 			</array>
 		</dict>
 	</dict>
 	<key>Description</key>
-	<string>Replaces occurrences of &apos;the cloud&apos; with &apos;my butt&apos;.</string>
+	<string>Replaces occurrences of 'big money' with 'big monkey'.</string>
+	<key>DeveloperIdentifier</key>
+	<string>Q6RNBW69A7</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
@@ -43,6 +45,6 @@
 		</dict>
 	</dict>
 	<key>Website</key>
-	<string>http://github.com/logancollins/cloud-to-butt-safari</string>
+	<string>http://github.com/rgm/cloud-to-butt-safari</string>
 </dict>
 </plist>
